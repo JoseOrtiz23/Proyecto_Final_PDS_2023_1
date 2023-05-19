@@ -1,0 +1,7 @@
+Entender mas la transformada de Hilbert, en que consiste y como saca los modos (señales que la constituyen).
+
+Cambiar de transformada para tener un analisis mas completo y comprensible de las caracteristicas.
+
+Transformada de Fourier por ventanas
+
+Transformada de Fourier en sonidos industriales
